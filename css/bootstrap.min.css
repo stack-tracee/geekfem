@@ -8,7 +8,9 @@ body{
   background-color: black;
 }
 
-
+#prompt{
+  display: block;
+}
 
 #header{
   margin: 0px 30px 0px 30px;
