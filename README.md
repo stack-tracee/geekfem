@@ -4,7 +4,7 @@ Dies ist die Website von Geekfem. Wir sind ein paar Hamburger Maedels, die sich 
 ## Du willst bei der Website mitmachen?
 1. Repo auschecken
 
-2. Sich als Contributor hinzuufuegen lassen
+2. Sich als Contributor hinzufuegen lassen
 
 3. Website starten mit 
 
