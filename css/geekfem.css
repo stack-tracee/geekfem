@@ -1,0 +1,45 @@
+body {
+	background-color: #282828;
+	color: white;
+}
+
+h1 {
+	color: #FF3636 ;
+}
+
+.page-header {
+	margin: 20px 0px 0px;
+	border-bottom: none;
+}
+
+.navbar {
+	border-radius: 0px;
+	background-color: #219999;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+.terminal-title {
+	background-color: #FF3636;
+	padding: 4px;
+}
+
+.terminal-content {
+	padding: 4px;
+}
+
+.terminal {
+	border: solid 1px #F8F8F8;
+}
+
+.prompt {
+	color: #219999;
+	font-weight: bold;
+}
+
+.prompt-seperator {
+	color: #B0EE33;
+	font-weight: bold;
+}
